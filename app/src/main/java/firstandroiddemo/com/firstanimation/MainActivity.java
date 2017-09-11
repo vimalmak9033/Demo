@@ -13,6 +13,7 @@ import android.transition.TransitionManager;
 public class MainActivity extends AppCompatActivity {
 
     ViewGroup mayurLayout;
+    // vimal makwana new chnges
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
